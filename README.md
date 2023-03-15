@@ -28,8 +28,9 @@ Sample -
     val outputBucket = ArrayBuffer[String]()
 
     for(p <- numbers){
-      //Extracting the number that is x than decimal value as dec x.yyy then finding the
-      //bucket number
+      //Extracting the number that is x than decimal value as dec 0.yyy then finding the
+      //bucket number which is 0.yyy/(0.049) -> This will give a integer value between 1-19
+      //Which is in the range of values of rangeovals list which is itself divided into 20 buckets
       val header = (p/1).toInt
       val dec = p%1
       val bucketnumber = math.ceil(dec/(0.049)).toInt
