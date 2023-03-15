@@ -48,7 +48,19 @@ Sample -
     return outputBucket
   }
 
+//Example of the code is as follows
 
+Input = 10.33 
+header = 10
+dec = 0.33
+bucketnumber = ceil(6.73) = 7
+
+start = bucketnumber != 0 so  -> start  =  10 + rangeofvals(6) = 10.300
+end = start + 10.349
+createbucket = [10.300 - 10.349]
+
+
+output = [10.300 - 10.349]
 ```
 
 ## 2
