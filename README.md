@@ -49,7 +49,7 @@ Sample -
   }
 
 //Example of the code is as follows
-
+//rangeofvals = [0.00 , 0.050,0.100 , ........  0.950 ]
 //Input = 10.33 
 //header = 10
 //dec = 0.33
