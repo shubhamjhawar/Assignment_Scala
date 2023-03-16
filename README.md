@@ -56,7 +56,7 @@ Sample -
 //bucketnumber = ceil(6.73) = 7
 
 //start = bucketnumber != 0 so  -> start  =  10 + rangeofvals(6) = 10.300
-//end = start + 10.349
+//end = start + 0.049
 //createbucket = [10.300 - 10.349]
 
 
