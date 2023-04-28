@@ -30,5 +30,20 @@ Same approach as Shikhar
 
 #### Question-2:
 
+Additionally Input was taken from file and additionally file handling was being used 
+
+##### Task-1:
+Sorted the list in descending order based on the runs scored by the players using sortby function and then top player instance is taken by using the take function.
+
+##### Task-2:
+Sorted the list in descending order based on the runs scored by the players using sortby function and then the top 5 players' instances are taken by using the take function.
+
+##### Task-3:
+Sorted the list in descending order based on the wickets taken by the players using sortby function and then the top 5 players' instances are taken by using the take function.
+
+##### Task-4:
+Sorted the list in descending order based on the performance taken by the players using sortwith function and then the rank of players is printed by a user-defined function.
+
+
 
 
