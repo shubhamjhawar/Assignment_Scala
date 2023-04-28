@@ -19,3 +19,16 @@ Sorted the list in descending order based on the wickets taken by the players us
 
 ##### Task-4:
 Sorted the list in descending order based on the performance taken by the players using sortwith function and then the rank of players is printed by a user-defined function.
+
+
+#### Sonali Approach
+
+
+#### Question-1:
+Same approach as Shikhar 
+
+
+#### Question-2:
+
+
+
